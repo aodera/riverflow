@@ -1,0 +1,19 @@
+2018-11-12 21:26:15	admin	http://localhost/fourprocesswire/manager/login/	Successful login for 'admin'
+2018-11-12 22:07:17	guest	http://localhost/fourprocesswire/manager/login/	Error: Failed login for 'admin' - Invalid password
+2018-11-12 22:07:22	admin	http://localhost/fourprocesswire/manager/login/	Successful login for 'admin'
+2018-11-14 01:08:40	admin	http://localhost/fourprocesswire/manager/login/	Successful login for 'admin'
+2018-11-14 20:01:19	admin	http://localhost/fourprocesswire/manager/login/	Successful login for 'admin'
+2018-11-15 00:13:35	admin	http://localhost/fourprocesswire/manager/login/	Successful login for 'admin'
+2018-11-20 03:57:57	guest	http://localhost/fourprocesswire/manager/login/	Error: Failed login for 'admin' - Invalid password
+2018-11-20 03:58:19	admin	http://localhost/fourprocesswire/manager/login/	Successful login for 'admin'
+2018-12-10 20:34:05	admin	http://localhost/fourprocesswire/manager/login/	Successful login for 'admin'
+2019-01-14 23:12:33	guest	http://localhost/fourprocesswire/manager/login/	Error: Failed login for 'admin' - Invalid password
+2019-01-14 23:12:44	guest	http://localhost/fourprocesswire/manager/login/	Error: Failed login for 'admin' - Invalid password
+2019-01-14 23:12:52	guest	http://localhost/fourprocesswire/manager/login/	Error: Failed login for 'admin' - Invalid password
+2019-01-14 23:14:04	guest	http://localhost/fourprocesswire/manager/login/	Error: Failed login for 'admin' - Invalid password
+2019-01-15 23:02:18	guest	http://localhost/fourprocesswire/manager/login/	Error: Failed login for 'admin' - Invalid password
+2019-01-15 23:02:28	admin	http://localhost/fourprocesswire/manager/login/	Successful login for 'admin'
+2019-01-16 03:58:18	admin	http://localhost/fourprocesswire/manager/login/	Successful login for 'admin'
+2019-01-18 23:41:03	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2019-01-18 23:41:03	?	?	User 'admin' - Session timed out (session older than 86400 seconds) (IP: 0.0.0.0)
+2019-01-30 20:29:59	admin	http://localhost/riverflow/manager/login/	Successful login for 'admin'

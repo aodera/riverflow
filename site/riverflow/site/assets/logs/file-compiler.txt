@@ -1,0 +1,4 @@
+2018-11-12 21:26:07	guest	http://localhost/fourprocesswire/	Compiled file: /site/templates/home.php
+2018-11-12 21:27:52	admin	http://localhost/fourprocesswire/	Compiled file: /site/templates/home.php
+2018-11-12 21:29:00	admin	http://localhost/fourprocesswire/	Compiled file: /site/templates/home.php
+2018-11-12 21:29:51	admin	http://localhost/fourprocesswire/	Compiled file: /site/templates/home.php

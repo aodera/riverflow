@@ -1,0 +1,9 @@
+user: riverflowvocc
+pswd: riverflowvoc
+
+You have successfully created a MySQL user named “riverflo_dan”.
+User “riverflo_dan” was added to the database “riverflo_river”.
+
+User: “riverflo_dan”
+database: “riverflo_river”
+password: P@$$w0rd1!

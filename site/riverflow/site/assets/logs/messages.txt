@@ -1,0 +1,2 @@
+2018-11-13 22:43:59	admin	http://localhost/fourprocesswire/manager/page/sort/	Updated sort for 7 pages
+2018-11-13 22:44:26	admin	http://localhost/fourprocesswire/manager/page/sort/	Updated sort for 2 pages

@@ -1,0 +1,33 @@
+2018-11-12 21:25:38	?	?	Saved module 'SystemUpdater' config data
+2018-11-12 21:25:42	?	?	Saved module info caches
+2018-11-12 21:25:44	guest	http://localhost/fourprocesswire/http404/	Saved module info caches
+2018-11-12 21:25:44	guest	http://localhost/fourprocesswire/http404/	Installed module 'ProcessRecentPages'
+2018-11-12 21:25:46	guest	http://localhost/fourprocesswire/http404/	Saved module info caches
+2018-11-12 21:25:46	guest	http://localhost/fourprocesswire/http404/	Saved module 'SystemUpdater' config data
+2018-11-12 21:25:47	guest	http://localhost/fourprocesswire/http404/	Saved module info caches
+2018-11-12 21:25:47	guest	http://localhost/fourprocesswire/http404/	Installed module 'AdminThemeUikit'
+2018-11-12 21:25:48	guest	http://localhost/fourprocesswire/http404/	Saved module info caches
+2018-11-12 21:25:56	guest	http://localhost/fourprocesswire/manager/login/	Saved module 'ProcessProfile' config data
+2018-11-12 21:25:58	guest	http://localhost/fourprocesswire/manager/login/	Saved module info caches
+2018-11-12 21:25:59	guest	http://localhost/fourprocesswire/manager/login/	Installed module 'ProcessLogger'
+2018-11-12 21:26:00	guest	http://localhost/fourprocesswire/manager/login/	Saved module info caches
+2018-11-12 21:26:00	guest	http://localhost/fourprocesswire/manager/login/	Installed module 'InputfieldIcon'
+2018-11-12 21:26:02	guest	http://localhost/fourprocesswire/manager/login/	Saved module info caches
+2018-11-12 21:26:02	guest	http://localhost/fourprocesswire/manager/login/	Saved module 'SystemUpdater' config data
+2018-11-12 21:26:04	guest	http://localhost/fourprocesswire/	Saved module info caches
+2018-11-12 21:26:06	guest	http://localhost/fourprocesswire/	Saved module info caches
+2018-11-12 21:26:07	guest	http://localhost/fourprocesswire/	Saved module 'SystemUpdater' config data
+2018-11-12 21:26:14	guest	http://localhost/fourprocesswire/manager/login/	Saved module 'SystemUpdater' config data
+2018-11-12 21:26:16	?	?	Saved module 'SystemUpdater' config data
+2018-11-12 21:26:17	?	?	Saved module info caches
+2018-11-12 21:26:18	admin	http://localhost/fourprocesswire/manager/?login=1	Saved module 'SystemUpdater' config data
+2018-11-12 21:26:19	admin	http://localhost/fourprocesswire/manager/page/?login=1	Saved module 'SystemUpdater' config data
+2018-11-12 21:26:22	?	?	Saved module info caches
+2018-11-12 21:26:22	?	?	Saved module 'SystemUpdater' config data
+2018-11-12 21:26:23	?	?	Saved module info caches
+2018-11-12 21:26:24	admin	http://localhost/fourprocesswire/manager/page/list/?id=1&render=JSON&start=0&lang=0&open=undefined&mode=actions	Saved module 'SystemUpdater' config data
+2018-11-12 22:00:18	admin	http://localhost/fourprocesswire/manager/module/	Saved module 'FieldtypeRepeater' config data
+2018-11-12 22:00:18	admin	http://localhost/fourprocesswire/manager/module/	Installed module 'InputfieldRepeater'
+2018-11-12 22:00:18	admin	http://localhost/fourprocesswire/manager/module/	Installed module 'FieldtypeRepeater'
+2018-11-12 22:00:20	admin	http://localhost/fourprocesswire/manager/module/	Saved module info caches
+2018-11-12 22:00:29	admin	http://localhost/fourprocesswire/manager/module/edit?name=FieldtypeRepeater	Saved module 'FieldtypeRepeater' config data
